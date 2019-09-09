@@ -13,19 +13,19 @@ date: 2019-09-09
 
 ### A Basic Step-by-Step Guide to Create Your Timeline: Adapted from [Timeline JS at knight lab](https://timeline.knightlab.com/#make) ###
 
-1. Create your spreadsheet: download spreadsheet template and save to Google Drive [Timeline JS Spreadsheet Template](https://docs.google.com/spreadsheets/d/1L-BYrNCEAcSwn8Rr91uiYwee7VD-pK4x38auquRepm0/edit#gid=0)
+1. **Getting Started:** Log into your Google account to download spreadsheet template and save on Google Drive [Timeline JS Spreadsheet Template](https://docs.google.com/spreadsheets/d/1L-BYrNCEAcSwn8Rr91uiYwee7VD-pK4x38auquRepm0/edit#gid=0)
     1. edit the timeline template to include the dates, text, links, and media specific to your project.
     2. You will fill you data into horizontal rows provided in the template. Delete the example data KnightLabs has in the template and then add your own.
     3. [Here is a link to my spreadsheet](https://docs.google.com/spreadsheets/d/1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0/edit#gid=0)
     
-2. Publish to the Web
+2. **Publish to the Web**
    1. Under the 'File' menu, select 'Publish to the Web'
    2. copy the URL from the top of the page
 
-3. Generate your Timeline
+3. **Generate Your Timeline**
    1. This feature hosts your timeline on the Timeline JS site. While it's here you can make changes on your spreadsheet and preview those changes.
    
-4. Share your Timeline. Yay!
+4. **Share Your Timeline** Yay!
 
 ### Important Notes on Timeline JS: Tricks & Hints ###
 
@@ -35,4 +35,4 @@ date: 2019-09-09
 
 ### My Timeline Example ###
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&height=650</iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
