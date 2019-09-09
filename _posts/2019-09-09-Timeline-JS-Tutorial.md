@@ -7,7 +7,7 @@ date: 2019-09-09
 ## A Little Introduction to Timeline JS ##
 
 1. Timeline JS is an open-source tool that allows anyone to create content-rcih timelines. Do more than present content, give it to users in an interactive and compelling way. Timelines can be about any event you choose, but they generally are most effective representing events fairly close together.
-    1. For example: Timeline JS is great for representing an event of 5-10 years in length. You could use it to represent an event of 100+ years of events, spread far apart, but it does not work quite as well. 
+    1. For example: Timeline JS is great for representing an event of 5-10 years in length, like WWI or WWII. It can be used for longer time periods with events spread out over the period, but it's not as effective. 
 2. Media forms you can use in your Timeline include Youtube, Vimeo, Wikipedia articles, tweets, audio files from Soundcloud, and more.
 3. Customize your Timeline, with background colors and images. Use simple html formatting tags to change font size and color.
 
@@ -17,7 +17,6 @@ date: 2019-09-09
     1. edit the timeline template to include the dates, text, links, and media specific to your project.
     2. You will fill you data into horizontal rows provided in the template. Delete the example data KnightLabs has in the template and then add your own.
     3. [Here is a link to my spreadsheet](https://docs.google.com/spreadsheets/d/1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0/edit#gid=0)
-    4. ![A screenshot of my own spreadsheet](https://iu.app.box.com/file/520862596958?sb=/activity)
     
 2. **Publish to the Web**
    1. Under the 'File' menu, select 'Publish to the Web'
