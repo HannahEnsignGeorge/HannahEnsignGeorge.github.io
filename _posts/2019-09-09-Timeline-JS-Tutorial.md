@@ -29,8 +29,7 @@ date: 2019-09-09
 
 5. **Another Example on Youtube**
 
-
-[![Timeline JS](http://img.youtube.com/vi/y9kViqYzG3E/0.jpg)](http://www.youtube.com/watch?v=y9kViqYzG3E "Timeline JS")
+    [![Timeline JS](http://img.youtube.com/vi/y9kViqYzG3E/0.jpg)](http://www.youtube.com/watch?v=y9kViqYzG3E "Timeline JS")
 
 ### Important Notes on Timeline JS: Tricks & Hints ###
 
