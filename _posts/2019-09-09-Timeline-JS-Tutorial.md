@@ -15,6 +15,7 @@ date: 2019-09-09
 
 1. Create your spreadsheet: download spreadsheet template and save to Google Drive [Timeline JS Spreadsheet Template](https://docs.google.com/spreadsheets/d/1L-BYrNCEAcSwn8Rr91uiYwee7VD-pK4x38auquRepm0/edit#gid=0)
     1. edit the timeline template to include the dates, text, links, and media specific to your project.
+    2. [Here is a link to my spreadsheet](https://docs.google.com/spreadsheets/d/1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0/edit#gid=0)
     
 2. Publish to the Web
    1. Under the 'File' menu, select 'Publish to the Web'
