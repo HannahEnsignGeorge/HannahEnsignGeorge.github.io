@@ -4,7 +4,7 @@ title: "Timeline JS Tutorial"
 date: 2019-09-09
 ---
 
-### A Litte Introduction to Timeline JS
+### A Litte Introduction to Timeline JS ###
 
 Timeline JS is an open-source tool that allows anyone to create content-rcih timelines. 
 Do more than present content, give it to users in an interactive and compelling way.
