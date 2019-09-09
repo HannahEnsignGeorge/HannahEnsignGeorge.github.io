@@ -6,12 +6,10 @@ date: 2019-09-09
 
 ## A Little Introduction to Timeline JS ##
 
-1. Timeline JS is an open-source tool that allows anyone to create content-rcih timelines. Do more than present content, give it to users in an interactive and compelling way.
+1. Timeline JS is an open-source tool that allows anyone to create content-rcih timelines. Do more than present content, give it to users in an interactive and compelling way. Timelines can be about any event you choose, but they generally are most effective representing events fairly close together.
+    1. For example: Timeline JS is great for representing an event of 5-10 years in length. You could use it to represent an event of 100+ years of events, spread far apart, but it does not work quite as well. 
 2. Media forms you can use in your Timeline include Youtube, Vimeo, Wikipedia articles, tweets, audio files from Soundcloud, and more.
 3. Customize your Timeline, with background colors and images. Use simple html formatting tags to change font size and color.
-
-  * Timeline JS is an extremely versatile program you can use to create content-rich timelines. Timelines can be about any event or series of events you choose.
-  * A note on choosing your Timeline Topic: while it can be used for events that are far apart (in time) it is most effective for events closer together.
 
 ### A Basic Step-by-Step Guide to Create Your Timeline: Adapted from [Timeline JS at knight lab](https://timeline.knightlab.com/#make) ###
 
