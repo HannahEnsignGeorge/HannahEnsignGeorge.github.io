@@ -27,6 +27,8 @@ date: 2019-09-09
    
 4. **Share Your Timeline** Yay!
 
+5. **Another Example on Youtube**[![Timeline JS](http://img.youtube.com/vi/{5wb0RCJdMrk&list=PLbeKw7rKBEBIj7fRPAjyc4gfmniOJcSXB}/0.jpg )](https://www.youtube.com/watch?v=y9kViqYzG3E&list=PLbeKw7rKBEBIj7fRPAjyc4gfmniOJcSXB&index=2 "Timeline JS")
+
 ### Important Notes on Timeline JS: Tricks & Hints ###
 
   * When importing in Timeline, make sure the URL you use takes you straight to the image. A URL to a wikipedia page where the image is will NOT work in Timeline. On Wikimedia, there should be a button that says "Use this file on the web" which gives you the URL you're looking for. Or, right click on an image and select "Open in a new tab" which should give you a usable URL too.
