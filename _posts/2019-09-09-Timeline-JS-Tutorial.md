@@ -49,8 +49,7 @@ date: 2019-09-09
     	&lt;/head&gt;
     	&lt;head&gt;
         	&lt;h1style="color:#0431B4!important;font-size:80px;"&gt;content of h1&lt;/h1&gt;
-    	&lt;/head&gt;
-</pre>
+&lt;/head&gt;</code></pre>
 
 <p>Snippet 2: <code>In-line Color Formatting with Color Names</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
@@ -60,8 +59,8 @@ date: 2019-09-09
 	&lt;/head&gt;
 	&lt;head&gt;
         	&lt;pstyle="color:blue!important;font-size:80px;"&gt;content of p tag&lt;/h1&gt;
-    	&lt;/head&gt;
-</pre>
+&lt;/head&gt;</code></pre>
+
 
 <p>Snippet 3: <code>In-line Font-Size Formatting</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
@@ -71,8 +70,7 @@ date: 2019-09-09
 	&lt;/head&gt;
 	&lt;head&gt;
         	&lt;pstyle="font-size:80px;"&gt;content of p tag&lt;/h1&gt;
-    	&lt;/head&gt;
-</pre>
+&lt;/head&gt;</code></pre>
 </div class="blurb>
 
     
