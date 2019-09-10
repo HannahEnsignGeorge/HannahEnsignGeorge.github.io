@@ -51,11 +51,7 @@ date: 2019-09-09
         	&lt;h1style="color:#0431B4!important;font-size:80px;"&gt;content of h1&lt;/h1&gt;
     	&lt;/head&gt;
 </pre>
-</div class="blurb">
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&start_at_slide=1&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
-<div class="blurb">
 <p>Snippet 2: <code>In-line Color Formatting with Color Names</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
@@ -66,9 +62,7 @@ date: 2019-09-09
         	&lt;pstyle="color:blue!important;font-size:80px;"&gt;content of p tag&lt;/h1&gt;
     	&lt;/head&gt;
 </pre>
-</div class="blurb">
- 
-<div class="blurb">
+
 <p>Snippet 3: <code>In-line Font-Size Formatting</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
@@ -79,7 +73,7 @@ date: 2019-09-09
         	&lt;pstyle="font-size:80px;"&gt;content of p tag&lt;/h1&gt;
     	&lt;/head&gt;
 </pre>
-</div class="blurb">
+</div class="blurb>
 
     
 
