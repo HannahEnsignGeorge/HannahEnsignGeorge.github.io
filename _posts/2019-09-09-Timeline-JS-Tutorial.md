@@ -45,10 +45,10 @@ date: 2019-09-09
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 	&lt;head&gt;
-        	&lt;pstyle="color:#6E6E6E!important;font-size:30px;"&gt;content of p tag&lt;/h1&gt;
+        	&lt;pstyle="color:#6E6E6E!important;font-size:30px;"&gt;content of p&lt;/h1&gt;
     	&lt;/head&gt;
     	&lt;head&gt;
-        	&lt;h1style="color:#0431B4!important;font-size:80px;"&gt;content of h1 tag&lt;/h1&gt;
+        	&lt;h1style="color:#0431B4!important;font-size:80px;"&gt;content of h1&lt;/h1&gt;
     	&lt;/head&gt;
 </pre>
 
@@ -60,9 +60,24 @@ date: 2019-09-09
 		&lt;pstyle="color:grey!important;font-size:30px;"&gt;content of p tag&lt;/h1&gt;
 	&lt;/head&gt;
 	&lt;head&gt;
-        	&lt;pstyle="color:blue!important;font-size:30px;"&gt;content of p tag&lt;/h1&gt;
+        	&lt;pstyle="color:blue!important;font-size:80px;"&gt;content of p tag&lt;/h1&gt;
     	&lt;/head&gt;
 </pre>
+
+  * What about changing font size only?
+ 
+<div class="blurb">
+<p>Snippet 1: <code>In-line Font-Size Formatting</code></p>
+<pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;pstyle="font-size:30px;"&gt;content of p tag&lt;/h1&gt;
+	&lt;/head&gt;
+	&lt;head&gt;
+        	&lt;pstyle="font-size:80px;"&gt;content of p tag&lt;/h1&gt;
+    	&lt;/head&gt;
+</pre>
+
     
 
 ### My Timeline Example ###
