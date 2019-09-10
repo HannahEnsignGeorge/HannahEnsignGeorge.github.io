@@ -35,7 +35,10 @@ date: 2019-09-09
 
   * When importing in Timeline, make sure the URL you use takes you straight to the image. A URL to a wikipedia page where the image is will NOT work in Timeline. On Wikimedia, there should be a button that says "Use this file on the web" which gives you the URL you're looking for. Or, right click on an image and select "Open in a new tab" which should give you a usable URL too.
   * When working with eras, make sure your eras have starting and end dates. Similarly, if you give the exact hour an event started, it needs to have an ending hour as well. 
-  * Formatting Fun! To change the background of your Timeline slides, you can use hexadecimal color or an image URL. In my Timeline example I used both hexadecimal color codes and an image URL. Hexadecimal colors are html color codes. Google 'HTML color codes' or use [this page I used](https://html-color-codes.info/)
+
+### HTML In-line Formatting ###
+
+  * Want to change the color of your text in your Timeline? Use HTML color codes, [sourced here](https://html-color-codes.info/)
 
 ### My Timeline Example ###
 
