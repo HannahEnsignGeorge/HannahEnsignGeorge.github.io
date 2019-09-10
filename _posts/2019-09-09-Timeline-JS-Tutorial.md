@@ -67,8 +67,6 @@ date: 2019-09-09
     	&lt;/head&gt;
 </pre>
 </div class="blurb">
-
-  * What about changing font size only?
  
 <div class="blurb">
 <p>Snippet 3: <code>In-line Font-Size Formatting</code></p>
