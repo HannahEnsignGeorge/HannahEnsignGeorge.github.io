@@ -39,6 +39,11 @@ date: 2019-09-09
 ### HTML In-line Formatting ###
 
   * Want to change the color of your text in your Timeline? Use HTML color codes, [sourced here](https://html-color-codes.info/)
+  <!DOCTYPE html>
+  <html>
+    <h1style="color:grey!important;font-size:80px;">Title of h1</h1>
+  </html>
+    
 
 ### My Timeline Example ###
 
