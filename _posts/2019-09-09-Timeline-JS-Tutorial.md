@@ -39,25 +39,29 @@ date: 2019-09-09
 ### HTML In-line Formatting ###
 
   * Want to change the color of your text in your Timeline? Use HTML color codes, [sourced here](https://html-color-codes.info/)
+
 <div class="blurb">
-<p>Snippet 1: <code>In-line Color Formatting</code></p>
+<p>Snippet 1: <code>In-line Color Formatting with Color Codes</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
-    &lt;head&gt;
-	    &lt;h1style="color:blue!important;font-size:80px;"&gt;content of h1 tag&lt;/h1&gt;
-    &lt;/head&gt;
-    &lt;head&gt;
-        &lt;h1style="color:#0431B4!important;font-size:80px;"&gt;content of h1 tag&lt;/h1&gt;
-    &lt;/head&gt;
+	&lt;head&gt;
+        	&lt;pstyle="color:#6E6E6E!important;font-size:30px;"&gt;content of p tag&lt;/h1&gt;
+    	&lt;/head&gt;
+    	&lt;head&gt;
+        	&lt;h1style="color:#0431B4!important;font-size:80px;"&gt;content of h1 tag&lt;/h1&gt;
+    	&lt;/head&gt;
 </pre>
+
+<div class="blurb">
+<p>Snippet 1: <code>In-line Color Formatting with Color Names</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
-    &lt;head&gt;
-        &lt;pstyle="color:grey!important;font-size:30px;"&gt;content of p tag&lt;/h1&gt;
-    &lt;/head&gt;
-    &lt;head&gt;
-        &lt;pstyle="color:#6E6E6E!important;font-size:30px;"&gt;content of p tag&lt;/h1&gt;
-    &lt;/head&gt;
+	&lt;head&gt;
+		&lt;pstyle="color:grey!important;font-size:30px;"&gt;content of p tag&lt;/h1&gt;
+	&lt;/head&gt;
+	&lt;head&gt;
+        	&lt;pstyle="color:blue!important;font-size:30px;"&gt;content of p tag&lt;/h1&gt;
+    	&lt;/head&gt;
 </pre>
     
 
