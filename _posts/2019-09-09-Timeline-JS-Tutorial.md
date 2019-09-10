@@ -53,7 +53,7 @@ date: 2019-09-09
 </pre>
 
 <div class="blurb">
-<p>Snippet 1: <code>In-line Color Formatting with Color Names</code></p>
+<p>Snippet 2: <code>In-line Color Formatting with Color Names</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 	&lt;head&gt;
@@ -67,7 +67,7 @@ date: 2019-09-09
   * What about changing font size only?
  
 <div class="blurb">
-<p>Snippet 1: <code>In-line Font-Size Formatting</code></p>
+<p>Snippet 3: <code>In-line Font-Size Formatting</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 	&lt;head&gt;
