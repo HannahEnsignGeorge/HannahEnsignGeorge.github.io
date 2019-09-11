@@ -73,7 +73,7 @@ date: 2019-09-09
 	&lt;head&gt;
         	&lt;pstyle="font-size:80px;"&gt;content of p tag&lt;/h1&gt;
 &lt;/head&gt;</code></pre>
-</div class="blurb>
+
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&start_at_slide=5&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
@@ -89,7 +89,7 @@ date: 2019-09-09
 		&lt;/ul&gt;
 	&lt;/head&gt;
 </code></pre>
-</div class="blurb>
+
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&start_at_slide=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
@@ -104,7 +104,7 @@ date: 2019-09-09
 		&lt;/ul&gt;
 	&lt;/head&gt;
 </code></pre>
-</div class="blurb>
+
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&start_at_slide=5&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
