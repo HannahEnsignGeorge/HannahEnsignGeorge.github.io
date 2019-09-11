@@ -88,6 +88,19 @@ date: 2019-09-09
 </code></pre>
 </div class="blurb>
 
+<p>Snippet 4: <code>Adding Bullet Points</code></p>
+<pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;ulstyle="Tehran Conference:disc;"&gt;
+		&lt;li&gt;FDR, Winston Churchill, Joseph Stalin&lt;/li&gt;
+		&lt;li&gt;Meeting of Allied officials to discuss German dominance in Europe&lt;/li&gt;
+		&lt;li&gt;Developed plans that became Operation Bodyguard and Operation Overlord&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/head&gt;
+</code></pre>
+</div class="blurb>
+
 ### My Timeline Example ###
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
