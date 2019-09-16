@@ -18,3 +18,7 @@ date: 2019-09-16
 5. The Simple Pages plugin can be used to add narrative text to your exhibit.
     * Add an 'About' page to explain your exhibit to viewers
     * Discuss the sources of your items, why you chose them, and what you hope to accomplish through making them available
+
+## What Plugins are Easiest to Use in Omeka Trial? ##
+   
+   * Exhibit Builder and Simple Pages are probably two of the easiest plugins to use with the trial version of Omeka. These plugins are built straight into the system and are integral to creating cohesive exhibits. 
