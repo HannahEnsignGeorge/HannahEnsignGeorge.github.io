@@ -23,3 +23,16 @@ Omeka is a host site you can use to publish a digital essay, share primary sourc
 * Use Item Tags to create connections among sources. Users will be able to search your exhibit using these tags, engaging in the themes of your work. 
 * Add the Geolocation Plugin to map your collections or use the Exhibit Builder or create a Simple Page to write a digital eassay accompanying your exhibit. All three of these tools provide new ways for site users to interact with the material you present. 
 * Turn your Omeka exhibit into a collaborative space through inviting colleagues to become administrative users. This feature gives multiple people the ability to build and manage the site together.
+
+# Overview: Omeka Plugins #
+
+Plugins on Omeka are resources you can use to customize your Omeka site. On the basic (free) version there are 9 available plugins to install and use on your site:
+  * COinS
+  * CSV Import
+  * Exhibit Builder
+  * LC Suggest
+  * Locale
+  * OAI-PHM Harvester
+  * Omeka Api Import
+  * Shared Shelf Link
+  * Simple Pages
