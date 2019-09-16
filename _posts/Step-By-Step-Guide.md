@@ -5,7 +5,7 @@ date: 2019-09-16
 ---
 # How to Omeka: a Step By Step Guide #
 
-1. Create an account on Omeka. Various 'plans' will be available to choose, but look for the 'trial' plan, which lets you use Omeka for free.
+1. Create an account on Omeka. Various plans will be available to choose, but look for the 'trial' plan, which lets you use Omeka for free.
 2. Creating a collection. Your collection is where you gather and organize your exhibit items. 
 3. Add items and item metadata. 
     * Upload the files you want to use in your Omeka exhbit to your Omeka collection. 
