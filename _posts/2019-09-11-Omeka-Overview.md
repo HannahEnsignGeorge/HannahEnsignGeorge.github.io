@@ -21,18 +21,17 @@ Omeka is a host site you can use to publish a digital essay, share primary sourc
 * Upload the photos and digitized documents you are going to use in your exhibit. These will create the website's "archive" and you will draw upon them to create your exhibit.
 * Install the necessary plugins. Omeka does not automatically come with all of the plugins you will need to ensure your documents and images display correctly. Install plugins like DocsViewer to make sure PDF documents in your collection display correctly. Unfortunately not all plugins will be available with the free version of Omeka, meaining you might have to come up with work-arounds.
 * Use Item Tags to create connections among sources. Users will be able to search your exhibit using these tags, engaging in the themes of your work. 
-* Add the Geolocation Plugin to map your collections or use the Exhibit Builder or create a Simple Page to write a digital eassay accompanying your exhibit. All three of these tools provide new ways for site users to interact with the material you present. 
 * Turn your Omeka exhibit into a collaborative space through inviting colleagues to become administrative users. This feature gives multiple people the ability to build and manage the site together.
 
 # Overview: Omeka Plugins #
 
 Plugins on Omeka are resources you can use to customize your Omeka site. On the basic (free) version there are 9 available plugins to install and use on your site:
-  * COinS
-  * CSV Import
-  * Exhibit Builder
-  * LC Suggest
-  * Locale
-  * OAI-PHM Harvester
-  * Omeka Api Import
-  * Shared Shelf Link
-  * Simple Pages
+  * COinS (Automatically embeds citation data into your Omeka site. Makes items viewable to online bibliographic tools like Zotero.)
+  * CSV Import (Imports a CSV spreadsheet of metadata accompanying Omeka site into Omeka.)
+  * Exhibit Builder (Make online exhibits, or special web pages, combining Omeka collections and narrative text.)
+  * LC Suggest (Enables autosuggest feature from Library of Congress for elements, standardization of vocabulary across databases.)
+  * Locale (Configure language for your Omeka site.)
+  * OAI-PMH Harvester (Imports records from OAI-PMH data providers. Harvest metadata and map onto Omeka model.) 
+  * Omeka Api Import (Import data & users from an existing Omeka class to the user's Omeka classic installation.)
+  * Shared Shelf Link (Subscription-based service from ARTstor. Publish image files and data records from a project in Shared Shelf.)
+  * Simple Pages (Administrators can create simple web pages for their public site.)
