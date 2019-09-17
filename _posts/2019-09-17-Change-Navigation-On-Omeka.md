@@ -16,4 +16,4 @@ Need to add more pages to cover information about your team or background on the
 
 <p align="center">![image](https://user-images.githubusercontent.com/54911846/65055998-2563ad80-d93e-11e9-9603-620a8661d72b.png)</p>
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/54911846/65055998-2563ad80-d93e-11e9-9603-620a8661d72b.png">
