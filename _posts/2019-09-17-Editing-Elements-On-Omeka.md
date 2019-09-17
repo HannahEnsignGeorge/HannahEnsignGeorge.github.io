@@ -10,5 +10,4 @@ date: 2019-09-17
   * To link an item's file metadata in the image of the item, Appearance-> Settings-> Link to File Metadata
   * To edit exisiting elements or add new ones, Settings-> Item Type Elements-> edit a specific item type-> Add an Item Type-> Add Element
   
-       ![image](https://user-images.githubusercontent.com/54911846/65053312-c3a14480-d939-11e9-8c23-63104403cd8c.png)
-
+![image](https://user-images.githubusercontent.com/54911846/65053739-6bb70d80-d93a-11e9-83c0-292c15d46ca2.png)
