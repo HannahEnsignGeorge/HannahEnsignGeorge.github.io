@@ -14,4 +14,4 @@ Need to add more pages to cover information about your team or background on the
 
 * Go to Appearance-> Navigation-> add a new page-> customize URL
 
-![image](https://user-images.githubusercontent.com/54911846/65055998-2563ad80-d93e-11e9-9603-620a8661d72b.png)
+<p align="center">![image](https://user-images.githubusercontent.com/54911846/65055998-2563ad80-d93e-11e9-9603-620a8661d72b.png)</p>
