@@ -9,3 +9,5 @@ date: 2019-09-17
   * To not show element set headings, Appearance-> Settings-> Show Element Set Headings-> uncheck that box too
   * To link an item's file metadata in the image of the item, Appearance-> Settings-> Link to File Metadata
   * To edit exisiting elements or add new ones, Settings-> Item Type Elements-> edit a specific item type-> Add an Item Type-> Add Element
+  
+  ![image](https://user-images.githubusercontent.com/54911846/65052741-e5e69280-d938-11e9-8190-6a5f17f2cf65.png)
