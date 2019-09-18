@@ -5,7 +5,7 @@ date: 2019-09-09
 ---
 # Move Aside Boring Timelines, Use Timeline JS Instead! #
 
-<p align+"center"> 
+<p align="center"> 
   <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65169905-9033e800-da15-11e9-93e1-7f8d703983bf.png">
 </p>
 
