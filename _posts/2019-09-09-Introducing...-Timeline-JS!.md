@@ -16,3 +16,5 @@ date: 2019-09-09
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65170386-878fe180-da16-11e9-832b-7e42c5df86d6.png">
 </p>
+
+Credit for Timeline JS Examples: [Ada Lovelace](https://timeline.knightlab.com/) [Nelson Mandela](http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/)
