@@ -34,7 +34,11 @@ date: 2019-09-10
     <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65172139-78ab2e00-da1a-11e9-850b-2baf7eca5aac.png">
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FKjgibiAN2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* A second opinion:
+
+<p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FKjgibiAN2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>    
 
 
 
