@@ -11,12 +11,12 @@ date: "2019-09-11"
 <p>Snippet 1: <code>In-line Color Formatting with Color Codes</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
-	&lt;head&gt;
+	
         	&lt;pstyle="color:#6E6E6E!important;font-size:30px;"&gt;content of p&lt;/h1&gt;
-	&lt;/head&gt;
-	&lt;head&gt;
+	
+	
 		&lt;h1style="color:#0431B4!important;font-size:80px;"&gt;content of h1&lt;/h1&gt;
-	&lt;/head&gt;
+	
 &lt;/html&gt;		
 </code></pre>
 	
