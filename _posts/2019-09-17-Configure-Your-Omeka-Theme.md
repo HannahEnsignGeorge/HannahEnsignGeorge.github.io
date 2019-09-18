@@ -21,5 +21,5 @@ Well, with some limitations. The free Omeka only has two themes to choose from, 
 
 * Want to change where item files are displayed on each page? Go to Appearance-> Theme-> Items to select Item File Display
 <p align="center">
-  <img width="360" height="200" src="https://user-images.githubusercontent.com/54911846/65169012-b5275b80-da13-11e9-8a25-a50117603c57.png">
+  <img width="260" height="200" src="https://user-images.githubusercontent.com/54911846/65169012-b5275b80-da13-11e9-8a25-a50117603c57.png">
 </p>
