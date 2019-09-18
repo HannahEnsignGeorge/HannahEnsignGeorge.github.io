@@ -9,7 +9,7 @@ Well, with some limitations. The free Omeka only has two themes to choose from, 
 
 * Choose things like a logo file, a header image, or footer text. Go to Appearance-> Theme-> Header & Footer
 <p align="center">
-  <img width="460" height="300" src="![Theme Snip 2](https://user-images.githubusercontent.com/54911846/65168784-3d593100-da13-11e9-9b37-be8f3b70f2bb.png)>
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65168784-3d593100-da13-11e9-9b37-be8f3b70f2bb.png">
 
 * Decide what items your Homepage should include, like Featured Items & Collections. Go to Appearance-> Theme-> Homepage
 <p align="center">
