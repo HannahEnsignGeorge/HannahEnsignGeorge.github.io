@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Step By Step Guide to Omeka"
-date: 2019-09-16
+date: 2019-09-14
 ---
 # How to Omeka: a Step By Step Guide #
 
