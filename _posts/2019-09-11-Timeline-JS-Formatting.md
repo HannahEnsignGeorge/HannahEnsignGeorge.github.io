@@ -9,15 +9,7 @@ date: "2019-09-11"
 
 <div class="blurb">
 <p>Snippet 1: <code>In-line Color Formatting with Color Codes</code></p>
-<pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-	&lt;head&gt;
-        	&lt;pstyle="color:#6E6E6E!important;font-size:30px;"&gt;Situation Map, 24:00&lt;/h1&gt;
-	&lt;/head&gt;
-	&lt;head&gt;
-		&lt;h1style="color:#0431B4!important;font-size:80px;"&gt;Progress After Day 1&lt;/h1&gt;
-	&lt;/head&gt;
-&lt;/html&gt;		
+<pre class="prettyprint pre-scrollable"><code>&lt;p style="color:#7C1505!important;font-size:65px;"&gt;Situation Map, 24:00&lt;/p&gt;	
 </code></pre>
 	
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&start_at_slide=6&height=550' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
