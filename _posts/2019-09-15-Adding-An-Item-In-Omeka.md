@@ -1,5 +1,5 @@
 ---
-layout: new post
+layout: post
 title: Adding an Item!
 date: 2019-09-15
 ---
