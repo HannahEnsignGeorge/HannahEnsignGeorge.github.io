@@ -6,9 +6,7 @@ date: 2019-09-16
 # How to Create an Exhbit On Omeka #
  1. Select 'Add Exhbit' from the menu on the left side of your page. You'll want to make sure you have installed the Exhibit Builder plugin, which will help you create a content-rich, professional looking exhibit. Exhibit Builder can be accessed from the Plugins tab.
 
- <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65247971-6931f080-dabf-11e9-8709-ae53cd3f514c.png">
- </p>
+> <p align="center"><img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65247971-6931f080-dabf-11e9-8709-ae53cd3f514c.png"></p>
 
  2. Fill out Exhibit Metadata, including elements like the Title of your exhibit, the Slug (abbreviated name of website which appears in URL), and a Description of your exhibit.
 
