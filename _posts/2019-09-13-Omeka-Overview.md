@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Omeka Overview"
-date: 2019-09-15
+date: 2019-09-13
 ---
 # What can you do with Omeka? #
 
@@ -15,3 +15,4 @@ Omeka is a host site you can use to publish a digital essay, share primary sourc
 
 # Why Omeka? #
 
+It is a relatively simple way to share digital collections. Omeka can be customized to suit the needs of a particular project, and allows for a mix of images and narrative text.  Omeka might not do everything you wish it could do, but it makes a darn good digital exhibit!
