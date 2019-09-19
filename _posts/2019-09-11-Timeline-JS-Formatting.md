@@ -29,7 +29,8 @@ date: "2019-09-11"
 
 
 <p>Snippet 4: <code>Adding Bullet Points</code></p>
-<pre class="prettyprint pre-scrollable"><code>&lt;ulstyle="Tehran Conference:disc;"&gt;
+<pre class="prettyprint pre-scrollable"><code>
+		&lt;ulstyle="Tehran Conference:disc;"&gt;
 			&lt;li&gt;FDR, Winston Churchill, Joseph Stalin&lt;/li&gt;
 			&lt;li&gt;Meeting of Allied officials to discuss German dominance in Europe&lt;/li&gt;
 			&lt;li&gt;Developed plans that became Operation Bodyguard and Operation Overlord&lt;/li&gt;
