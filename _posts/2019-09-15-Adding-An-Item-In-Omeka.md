@@ -9,7 +9,7 @@ You've signed up for your Omeka site and chosen the version of Omeka you want to
 
 Before you can become a world-class digital exhibit maker on Omeka, you need to add some items to your Omeka site. Copyright is a concern when downloading images off the internet, see your instructor for specific guidelines relating to your project. My favorite resource for public domain images is the [New York Public Library's Digital Collections](https://digitalcollections.nypl.org/).
 
-## Adding An Item: ##
+# Adding An Item: #
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65245456-a9db3b00-daba-11e9-8bc1-099f5d63ae57.png"> 
