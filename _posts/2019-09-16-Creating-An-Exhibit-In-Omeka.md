@@ -12,13 +12,13 @@ date: 2019-09-16
  </p>
 
  2. Fill out Exhibit Metadata, including elements like the Title of your exhibit, the Slug (abbreviated name of website which appears in URL), and a Description of your exhibit.
- 
+
  3. Scroll down the Exhibit Metadata page, to the where the Cover Image and Pages metadata section are. This is where you will add pages of items to your exhibit.
  
  <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65248813-cd08e900-dac0-11e9-9d44-d7c9e83057df.png">
  </p>
- 
+
  4. When you add a page you give it a title, slug, and content of its own. Content includes items from your Omeka collection and whatever text you want to directly accompany those items. 
  
  <p align="center">
