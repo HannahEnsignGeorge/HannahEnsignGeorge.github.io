@@ -4,7 +4,6 @@ title: "Creating An Omeka Exhibit"
 date: 2019-09-16
 ---
 # How to Create an Exhbit On Omeka #
-
  1. Select 'Add Exhbit' from the menu on the left side of your page. You'll want to make sure you have installed the Exhibit Builder plugin, which will help you create a content-rich, professional looking exhibit. Exhibit Builder can be accessed from the Plugins tab.
 
  <p align="center">
