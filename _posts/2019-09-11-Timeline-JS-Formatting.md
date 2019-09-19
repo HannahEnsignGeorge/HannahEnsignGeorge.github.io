@@ -15,23 +15,13 @@ date: "2019-09-11"
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&start_at_slide=6&height=550' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 <p>Snippet 2: <code>In-line Color Formatting with Color Names</code></p>
-<pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-	&lt;head&gt;
-        	&lt;pstyle="color:blue!important;font-size:80px;"&gt;German invasion of Poland, consensus date for the beginning of WWII.&lt;/h1&gt;
-	&lt;/head&gt;
-&lt;/html&gt;
+<pre class="prettyprint pre-scrollable">&lt;p style="color:#0431B4!important;font-size:30px;"&gt;German invasion of Poland, consensus date for the beginning of WWII.&lt;/p&gt;
 </code></pre>
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&start_at_slide=1&height=550' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 <p>Snippet 3: <code>In-line Font-Size Formatting</code></p>
-<pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-	&lt;head&gt;
-        	&lt;pstyle="font-size:80px;"&gt;Normandy Landings&lt;/h1&gt;
-	&lt;/head&gt;
-&lt;html&gt;
+<pre class="prettyprint pre-scrollable"><code>&lt;h1style="font-size:80px;"&gt;Normandy Landings&lt;/h1&gt;
 </code></pre>
 
 
