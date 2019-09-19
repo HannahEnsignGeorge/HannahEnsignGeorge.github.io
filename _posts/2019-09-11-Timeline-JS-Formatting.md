@@ -41,16 +41,12 @@ date: "2019-09-11"
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&start_at_slide=3&height=550' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 <p>Snippet 5: <code>Adding An Ordered List</code></p>
-<pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-	&lt;head&gt;
+<pre class="prettyprint pre-scrollable"><code>
 		&lt;olstyle=Normandy Landings:disc;"&gt;
 			&lt;li&gt;Began on Tuesday the 6th of June 1944.&lt;/li&gt;
 			&lt;li&gt;Most of the 5 beaches along the coast were secured by 12 June.&lt;/li&gt;
 			&lt;li&gt;Took Allied forces until 21 July, 1944 to secure Caen, a major French port.&lt;/li&gt;
 		&lt;/ol&gt;
-	&lt;/head&gt;
-&lt;/html&gt;
 </code></pre>
 
 
