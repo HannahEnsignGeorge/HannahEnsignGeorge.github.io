@@ -20,7 +20,7 @@ date: 2019-09-17
 </p>
 
   <li style="font-size:25px;">Want to change where item files are displayed on each page? Go to Appearance-> Theme-> Items to select Item File Display</li>
-</ul>
+
 <p align="center">
   <img width="360" height="100" src="https://user-images.githubusercontent.com/54911846/65169012-b5275b80-da13-11e9-8a25-a50117603c57.png">
 </p>
