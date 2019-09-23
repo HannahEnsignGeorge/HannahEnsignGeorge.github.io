@@ -8,8 +8,8 @@ date: 2019-09-13
   <h1 style="font-family:Arial;font-size:30px;strong;">What can you do with Omeka?</h1>
     <p style="font-family:Arial;font-size:20px;">Omeka is a site you can use to publish a digital essay, share primary source collections, and collaborate with other scholars. Omeka exhibits can feature items from your digital collections, and collections can be created either independently or as a group. Anyone from a student to an institution can use Omeka for their digital projects.</p>
   <h2 style="font-family:Arial;font-size:30px;strong;">Plan Your Omeka Exhibit</h2>
-    <p style="font-family:Arial;font-size:20px;">
-      <ul>
+    <p >
+      <ul style="font-family:Arial;font-size:20px;">
         <li>Know the digital images and text you will be working with. Take time to think about how you will describe those images, i.e. what metadata you will use.</li>
         <li>How are the images commected? Is there a narrative they share?</li>
         <li>Think about the audience for your Omeka site.</li>
