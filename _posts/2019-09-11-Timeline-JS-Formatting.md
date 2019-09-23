@@ -8,7 +8,9 @@ date: "2019-09-11"
 	<h1 style="font-family:Verdana;font-size:30px;strong;align:center;">HTML In-Line Formtatting</h1>
 	  <p style="font-family:Verdana;font-size:20px;'>Want to change the color of your text in Timeline JS? Use HTML color codes, [sourced here](https://html-color-codes.info/).</p>
 	  <p style="font-family:Verdana;font-size:20px;">What about adding bullet points or a numbered list to organize information in your Timeline? Many options for customization are possible using simple HTML in-line formatting.</p>
-
+</body>
+</html>
+							
 <div class="blurb">
 <p>Snippet 1: <code>In-line Color Formatting with Color Codes</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;p style="color:#7C1505!important;font-size:65px;"&gt;Situation Map, 24:00&lt;/p&gt;	
@@ -53,5 +55,3 @@ date: "2019-09-11"
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1G_DhfiS3g_mIs-lPvuATjqSIDCgRX5gSK9W4pY1SeA0&font=Default&lang=en&initial_zoom=2&start_at_slide=5&height=550' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-</body>
-</html>
