@@ -6,7 +6,7 @@ date: "2019-09-11"
 <html>
 <body>
 	<h1 style="font-family:Verdana;font-size:30px;strong;align:center;">HTML In-Line Formtatting</h1>
-	  <p style="font-family:Verdana;font-size:20px;'>Want to change the color of your text in Timeline JS? Use HTML color codes, [sourced here](https://html-color-codes.info/).</p>
+	  <p style="font-family:Verdana;font-size:20px;">Want to change the color of your text in Timeline JS? Use HTML color codes, [sourced here](https://html-color-codes.info/).</p>
 	  <p style="font-family:Verdana;font-size:20px;">What about adding bullet points or a numbered list to organize information in your Timeline? Many options for customization are possible using simple HTML in-line formatting.</p>
 </body>
 </html>
