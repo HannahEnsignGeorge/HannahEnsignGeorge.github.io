@@ -5,9 +5,6 @@ date: 2019-09-17
 ---
 <!DOCTYPE html>
 <html>
-<head>
-<title style="font-size:30px;strong;">Editing Elements in Omeka</title>
-</head>
 <body>
 <ul>
  <li style="font-size:25px;">To get rid of empty elements, Appearance-> Settings-> Show Empty Elements-> uncheck that box</li>
