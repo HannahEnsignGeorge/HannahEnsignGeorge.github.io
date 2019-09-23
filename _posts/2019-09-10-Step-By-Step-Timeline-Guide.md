@@ -24,8 +24,6 @@ date: 2019-09-10
 <p align="center">
     <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65172139-78ab2e00-da1a-11e9-850b-2baf7eca5aac.png">
 </p>               
-        </body>
-</html>
         <h1 style="font-family:Arial;font-size:30px;strong;text-align:center;">A Youtube Video for Additional Guidance:</h1>
 <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/FKjgibiAN2Q"></iframe>
