@@ -3,16 +3,21 @@ layout: post
 title: "Omeka Overview"
 date: 2019-09-13
 ---
-# What can you do with Omeka? #
-
-Omeka is a host site you can use to publish a digital essay, share primary source collections, and collaborate with other scholars. Omeka exhibits can feature specific items from your digital collections, and collections can be created either independently or as a group.
-
-# Plan Your Omeka Exhibit #
-
-* Know the digital images and text you will be working with. Take the time to think about what metadata you wil use to describe those images. How are the images connected? Is there a narrative they share in common? 
-* Additionally, think about who your audience is. What will the people who come to your Omeka site use it for? Is it a scholarly site? Does it highlight a local community concern? 
-* These and other questions are important to keep in mind as you begin building your Omeka collection and creating exhibits. At the core lies the question of Purpose.
-
-# Why Omeka? #
-
-It is a relatively simple way to share digital collections. Omeka can be customized to suit the needs of a particular project, and allows for a mix of images and narrative text.  Omeka might not do everything you wish it could do, but it makes a darn good digital exhibit!
+<html>
+<body>
+  <h1 style="font-size:30px;strong;">What can you do with Omeka?</h1>
+    <p style="font-size:20px;">Omeka is a site you can use to publish a digital essay, share primary source collections, and collaborate with other scholars. Omeka exhibits can feature items from your digital collections, and collections can be created either independently or as a group. Anyone from a student to an institution can use Omeka for their digital projects.</p>
+  <h2 style="font-size:30px;strong;">Plan Your Omeka Exhibit<h2>
+    <p style="font-size:20px;">
+      <ul>
+        <li>Know the digital images and text you will be working with. Take time to think about how you will describe those images, i.e. what metadata you will use.</li>
+        <li>How are the images commected? Is there a narrative they share?</li>
+        <li>Think about the audience for your Omeka site.</li>
+        <li>Why will people visit your Omeka site? Is it for scholarly concerns? Does it highlight a local community concern?</li>
+        <li>Core Question: What is the Purpose of your Omeka site?</li>
+      </ul>
+    </p>
+  <h3 style="font-size:30px;strong;">So, Why Omeka?</h3>
+    <p style="font-size:20px;">It is a relatively simple way to share digital collections. Omeka can be customized to suit the needs of a particular project, and allows for a mix of images and narrative text.</p>
+</body>
+</html>
