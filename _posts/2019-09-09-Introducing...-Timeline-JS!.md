@@ -3,7 +3,6 @@ layout: post
 title: "Introducing... Timeline JS!"
 date: 2019-09-09
 ---
-<!DOCTYPE html>
 <html>
 <body>
   <h1 style="font-family:Arial;font-size:30px;strong;text-align:center;">Move Aside Boring Timelines, Use Timeline JS Instead!</h1>
@@ -18,5 +17,4 @@ date: 2019-09-09
       <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65170386-878fe180-da16-11e9-832b-7e42c5df86d6.png">
     </p>
 <p style="font-family:Arial;font-size:20px;"> Credit for Timeline JS examples: <a style="color:blue;font-family:Arial;font-size:20px" href="https://timeline.knightlab.com/">Ada Lovelace</a>and<a style="color:blue;font-family:Arial;font-size:20px" href="http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/">Nelson Mandela</a></p>
-    </body>
-  </html>
+    
