@@ -3,7 +3,6 @@ layout: post
 title: "Editing Elements on Omeka"
 date: 2019-09-17
 ---
-<!DOCTYPE html>
 <html>
 <body>
 <ul>
