@@ -20,7 +20,7 @@ date: 2019-09-13
   <h2 style="font-family:Arial;font-size:30px;strong;">So, Why Omeka?</h2>
     <p style="font-family:Arial;font-size:20px;">It is a relatively simple way to share digital collections. Omeka can be customized to suit the needs of a particular project, and allows for a mix of images and narrative text.</p>
   <h2 style="font-family:Arial;font-size:30px;strong">Example Omeka Sites</h2>
-    <ul style="font-family:Arial;font-size:20px;">
+    <ul style="font-family:Arial;font-size:20px;color:blue;">
       <li><a href="http://huginn.net/shoebox/letters/">A Shoebox of Norwegian Letters</a></li>
       <li><a href="http://www.quattrocentoitalia.artinterp.org/omeka/">Fifteenth Century Italian Art</a></li>
       <li><a href="http://mallhistory.org/">Histories of the National Mall</a></li>
