@@ -13,6 +13,7 @@ date: 2019-09-16
   <li style="font-size:25px;">The next page is 'Browse Collections' which has a green button that says 'Add a collection'.</li> 
   <li style="font-size:25px;"> Click the 'Add a Collection' button.</li>
   <li style="font-size:25px;">You'll then fill out the metadata for the collection. This metadata gives context for the collection and provides users with background information for the items your collection presents.</li>
+  <li style="font-size:25px;">Click the 'Add Collection' button on the right side of the page. Your collection is now official!</li>
 </ol>
 
 <p align="center">
