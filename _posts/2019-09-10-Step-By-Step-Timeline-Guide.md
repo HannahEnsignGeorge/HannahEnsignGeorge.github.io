@@ -3,6 +3,8 @@ layout: post
 title: "Step By Step Timeline Guide"
 date: 2019-09-10
 ---
+<html>
+<body>
 <h1 style="font-family:Arial;font-size:30px;strong;text-align:center;">Creating Your Timeline: a Quick Start Guide</h1>
         <ol style="font-size:20px;">
             <li style="font-family:Arial;font-size:20px;">Download spreadsheet template from <a style="color:blue;" href="https://timeline.knightlab.com">Timeline JS</a> and save to your Google Drive.</li>
@@ -23,11 +25,11 @@ date: 2019-09-10
     <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65172139-78ab2e00-da1a-11e9-850b-2baf7eca5aac.png">
 </p>               
 <h1 style="font-family:Arial;font-size:30px;strong;text-align:center;">A Youtube Video for Additional Guidance:</h1>
-
 <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/FKjgibiAN2Q"></iframe>
-</p>    
-
+</p>
+</body>
+</html>
 
 
 
