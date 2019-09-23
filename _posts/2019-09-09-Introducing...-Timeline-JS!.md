@@ -3,6 +3,7 @@ layout: post
 title: "Introducing... Timeline JS!"
 date: 2019-09-09
 ---
+<!DOCTYPE html>
 <html>
 <body>
   <h1 style="font-family:Arial;font-size:30px;strong;text-align:center;">Move Aside Boring Timelines, Use Timeline JS Instead!</h1>
