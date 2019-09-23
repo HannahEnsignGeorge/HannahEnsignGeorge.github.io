@@ -7,7 +7,7 @@ date: 2019-09-10
 <body>
     <h1 style="font-family:Arial;font-size:30px;strong;text-align:center;">Creating Your Timeline: a Quick Start Guide</h1>
         <ol style="font-size:20px;">
-            <li style="font-family:Arial;font-size:20px;">Download spreadsheet template from <a style="color:blue;" href="https://timeline.knightlab.com,/a> and save to your Google Drive.</li>
+            <li style="font-family:Arial;font-size:20px;">Download spreadsheet template from <a style="color:blue;" href="https://timeline.knightlab.com">Timeline JS</a> and save to your Google Drive.</li>
             <li style="font-family:Arial;font-size:20px;">Edit the template to include the dates, text, links, and media specific to your project. New rows can be added if needed, each row is a 'slide' in your timeline.</li>
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65171459-ec4c3b80-da18-11e9-9370-f497b842a0ec.png">
