@@ -5,6 +5,7 @@ date: 2019-09-17
 ---
 <html>
 <body>
+ <h1 style="font-size:30px;strong">How to Edit Elements on Your Omeka Site</h1>
 <ul>
  <li style="font-size:25px;">To get rid of empty elements, Appearance-> Settings-> Show Empty Elements-> uncheck that box</li>
   
