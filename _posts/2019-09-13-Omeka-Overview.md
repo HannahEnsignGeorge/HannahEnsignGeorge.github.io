@@ -17,9 +17,9 @@ date: 2019-09-13
         <li>Core Question: What is the Purpose of your Omeka site?</li>
       </ul>
     </p>
-  <h3 style="font-family:Arial;font-size:30px;strong;">So, Why Omeka?</h3>
+  <h2 style="font-family:Arial;font-size:30px;strong;">So, Why Omeka?</h2>
     <p style="font-family:Arial;font-size:20px;">It is a relatively simple way to share digital collections. Omeka can be customized to suit the needs of a particular project, and allows for a mix of images and narrative text.</p>
-  <h4 style="font-family:Arial;font-size:30px;strong">Example Omeka Sites</h4>
+  <h2 style="font-family:Arial;font-size:30px;strong">Example Omeka Sites</h2>
     <ul style="font-family:Arial;font-size:20px;">
       <li><a href="http://huginn.net/shoebox/letters/">A Shoebox of Norwegian Letters</a></li>
       <li><a href="http://www.quattrocentoitalia.artinterp.org/omeka/">Fifteenth Century Italian Art</a></li>
