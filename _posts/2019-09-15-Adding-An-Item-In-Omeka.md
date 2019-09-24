@@ -22,14 +22,14 @@ Before you can become a world-class digital exhibit maker on Omeka, you need to 
    </p>
   <li>Fill out the Item Type Metadata: pick type of media (still image, etc.), Omeka will generate type-specific metadata</li>
    <p align="center">
-    <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65245764-35ed6280-dabb-11e9-959b-fd7ddbf1419b.png">
+    <img width="460" src="https://user-images.githubusercontent.com/54911846/65245764-35ed6280-dabb-11e9-959b-fd7ddbf1419b.png">
    </p>
   <li>Upload item files, more than one file can be uploaded to a single item</li>
   <p align="center">
-    <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65245879-6cc37880-dabb-11e9-9eab-3f749c855153.png">
+    <img width="460" src="https://user-images.githubusercontent.com/54911846/65245879-6cc37880-dabb-11e9-9eab-3f749c855153.png">
    </p>
   <li>Add item tags to relate this item to other items in your collection: helpful tool for users searching your collections and exhibits</li>
   <p align="center">
-    <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65245988-a72d1580-dabb-11e9-973c-9c965797ade4.png">
+    <img width="460" src="https://user-images.githubusercontent.com/54911846/65245988-a72d1580-dabb-11e9-973c-9c965797ade4.png">
   </p>
 </ol>
