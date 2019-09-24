@@ -25,6 +25,6 @@ date: 2019-09-16
  
 <h2 style="font-size:30px;strong;">Example of a Published Exhibit Page:</h2>
 
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65250363-75b84800-dac3-11e9-8e44-5bc2b08b3bd8.png">
+<p align="center"><a href="https://otutorial.omeka.net/exhibits/show/architectureinamerica/sanfrancisco20thcentury">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65250363-75b84800-dac3-11e9-8e44-5bc2b08b3bd8.png"></a>
 </p>
