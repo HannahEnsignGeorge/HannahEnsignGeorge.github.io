@@ -18,7 +18,7 @@ Before you can become a world-class digital exhibit maker on Omeka, you need to 
   <li>Pick an image</li>
   <li>Fill out the Dublin Core metadata about the item</li>
   <p align="center">
-    <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65245643-f3c42100-daba-11e9-8757-8e239395e64e.png">
+    <img width="460" src="https://user-images.githubusercontent.com/54911846/65245643-f3c42100-daba-11e9-8757-8e239395e64e.png">
    </p>
   <li>Fill out the Item Type Metadata: pick type of media (still image, etc.), Omeka will generate type-specific metadata</li>
    <p align="center">
