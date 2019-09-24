@@ -12,7 +12,7 @@ Before you can become a world-class digital exhibit maker on Omeka, you need to 
 # Adding An Item: #
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/54911846/65245456-a9db3b00-daba-11e9-8bc1-099f5d63ae57.png"> 
+  <img width="460" src="https://user-images.githubusercontent.com/54911846/65245456-a9db3b00-daba-11e9-8bc1-099f5d63ae57.png"> 
 </p>
 <ol style="font-size:25px;">
   <li>Pick an image</li>
