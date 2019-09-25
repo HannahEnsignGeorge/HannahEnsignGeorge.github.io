@@ -1,3 +1,4 @@
 name: Hannah's Discoveries
 markdown: kramdown
+theme: Merlot
 permalink: /blog/:year/:month/:day/:title
