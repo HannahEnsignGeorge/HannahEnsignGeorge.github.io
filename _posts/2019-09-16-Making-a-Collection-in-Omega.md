@@ -29,12 +29,13 @@ date: 2019-09-16
 </ol>
 <h2 style="font-size:30px;strong">Adding Items to Your Omeka Collection</h2>
 <p>Items can be added to your Omeka collection in two different ways. Either you add each item individually to a collection, or you add multiple items to a collection in a batch. The first method is good if you are adding additional items to your collection, but it laborious and kind of a pain if you are adding many items to a collection. In that case the second method is much easier. You select which items you want to put in a collection and edit the metadata as a batch to add those items.</p>
-<p>Method One-Adding Individual Items:
-  <img width="460" align="center" src="(https://user-images.githubusercontent.com/54911846/67959139-a3b69f00-fbce-11e9-8949-d912b93c1575.png">
-</p>
-<p>Method Two-Adding Multiple Items:
-  <img width="460" align="center" src="https://user-images.githubusercontent.com/54911846/67959365-014aeb80-fbcf-11e9-9568-ed7cd0da1ffe.png">
-  <img width="460" align="center" src="https://user-images.githubusercontent.com/54911846/67959380-0740cc80-fbcf-11e9-9f03-f813bd48034b.png">
+<ul>
+  <li>Method One-Adding Individual Items:</li>
+  <li><img width="460" align="center" src="(https://user-images.githubusercontent.com/54911846/67959139-a3b69f00-fbce-11e9-8949-d912b93c1575.png"></li>
+  <li>Method Two-Adding Multiple Items:</li>
+  <li><img width="460" align="center" src="https://user-images.githubusercontent.com/54911846/67959365-014aeb80-fbcf-11e9-9568-ed7cd0da1ffe.png"></li>
+  <li><img width="460" align="center" src="https://user-images.githubusercontent.com/54911846/67959380-0740cc80-fbcf-11e9-9f03-f813bd48034b.png"></li>
+</ul>
 </p>                                   
 </body>
 </html>
