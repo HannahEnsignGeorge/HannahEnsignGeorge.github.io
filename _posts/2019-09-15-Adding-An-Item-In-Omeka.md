@@ -32,4 +32,8 @@ Before you can become a world-class digital exhibit maker on Omeka, you need to 
   <p align="center">
     <img width="460" src="https://user-images.githubusercontent.com/54911846/65245988-a72d1580-dabb-11e9-973c-9c965797ade4.png">
   </p>
+  <li>Don't forget to click the 'Add Item' button to ensure your item is published correctly. Now it's Omeka Official!</li>
+  <p align="center">
+    <img width="460" src="https://user-images.githubusercontent.com/54911846/67954135-c775e700-fbc6-11e9-86af-2b2014d1c43d.png">
+  </p>
 </ol>
