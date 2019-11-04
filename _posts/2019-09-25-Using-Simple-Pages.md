@@ -14,7 +14,7 @@ date: 2019-09-25
     <p align="center">
       <img width="460" src="https://user-images.githubusercontent.com/54911846/68149086-40e54080-ff0b-11e9-822e-2b91fb9fd6f3.png"> 
     </p>
-    <h3>Things You Need to Include</h3>
+    <h1>Things You Need to Include</h1>
       <ul>
         <li>Elements of a Good Simple Page</li>
         <li>A Slug, which is information coming after a slash in a URL. Example: otutorial.omeka.net/whoweare, the slug is 'whoweare'</li>
@@ -24,6 +24,7 @@ date: 2019-09-25
     <p align="center">
       <img width="460" src="https://user-images.githubusercontent.com/54911846/68149143-5490a700-ff0b-11e9-9b31-49adeeb59ca8.png"> 
     </p>
+    <h1>Using Omeka Shortcodes</h1>
     <p>When adding text to your page there are a few options for inserting images, links, or videos. The easiest way to insert an image is to add one from your Omeka collection. The text field supports shortcodes, which are easy ways to insert images, format simple pages, and more.</p>
     <p align="center">
     <a href="https://omeka.org/classic/docs/Content/Shortcodes/">
