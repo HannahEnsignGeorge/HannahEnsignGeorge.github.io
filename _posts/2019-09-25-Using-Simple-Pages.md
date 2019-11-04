@@ -12,10 +12,11 @@ date: 2019-09-25
     <img width="460" align="center" src="https://user-images.githubusercontent.com/54911846/68149086-40e54080-ff0b-11e9-822e-2b91fb9fd6f3.png">
     <p>Things You Need to Include:
       <ul>
-        <li>A Title for Your Page</li>
+        <li>Elements of a Good Simple Page</li>
         <li>A Slug, which is information coming after a slash in a URL. Example: otutorial.omeka.net/whoweare, the slug is 'whoweare'</li>
         <li>Some text and maybe images, using the text box available. You can choose between using the HTML editor, or just typing directly in the textbox.</li>
         <li>Decide where you want to put your page. Should it be directly under the Main Page, or is it a childpage of a different Simple Page you've already made? For example, in my tutorial Omeka site I have a main page entitled Architecture in America, which has a child page, The U.S. Capitol.</li>
     </ul>
+    </p>
     <img width="460" align="center" src="https://user-images.githubusercontent.com/54911846/68149143-5490a700-ff0b-11e9-9b31-49adeeb59ca8.png">
     
