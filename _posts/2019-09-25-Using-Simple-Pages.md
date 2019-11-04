@@ -21,5 +21,5 @@ date: 2019-09-25
     <img width="460" align="center" src="https://user-images.githubusercontent.com/54911846/68149143-5490a700-ff0b-11e9-9b31-49adeeb59ca8.png">
     <p>When adding text to your page there are a few options for inserting images, links, or videos. The easiest way to insert an image is to add one from your Omeka collection. The text field supports shortcodes, which are easy ways to insert images, format simple pages, and more.</p>
     <a href="https://omeka.org/classic/docs/Content/Shortcodes/">
-      <img src="https://user-images.githubusercontent.com/54911846/68151899-95d78580-ff10-11e9-8c81-6a66e38229f0.png" alt="Omeka Shortcodes" style="width:460;align:center;">
+      <img src="https://user-images.githubusercontent.com/54911846/68151899-95d78580-ff10-11e9-8c81-6a66e38229f0.png" alt="Omeka Shortcodes" style="width:42px;height:42px;border:0;">
     </a>
