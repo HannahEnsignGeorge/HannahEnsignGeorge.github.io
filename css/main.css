@@ -39,7 +39,10 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;}
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
 
 /* Code */
 pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
