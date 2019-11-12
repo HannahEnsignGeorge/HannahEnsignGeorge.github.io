@@ -12,6 +12,10 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+ul class="tutorials" {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif', 'Verdana';
+    font-size: 1.4em;
+}
 a {
     text-decoration: none;
     color: #999;
