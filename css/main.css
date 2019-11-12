@@ -60,6 +60,11 @@ ul {
     font-size: 1em;
     color: #333;
 }
+ol {
+   font-family: 'Helvetica', 'Arial', 'Sans-Serif', 'Verdana';
+    font-size: 1em;
+    color: #333;
+}
 
 /* Code */
 pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
