@@ -24,6 +24,11 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif', 'Verdana';
     color: #333;
 }
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif', 'Verdana';
+    font-color: #333;
+}
 h3 {
     font-size: 1em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif', 'Verdana';
