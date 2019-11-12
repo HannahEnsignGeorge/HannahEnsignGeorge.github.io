@@ -63,11 +63,13 @@ ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif', 'Verdana';
     font-size: 1em;
     color: #333;
+    line-height: 1.2em;
 }
 ol {
    font-family: 'Helvetica', 'Arial', 'Sans-Serif', 'Verdana';
     font-size: 1em;
     color: #333;
+    line-height: 1.2em;
 }
 
 /* Code */
